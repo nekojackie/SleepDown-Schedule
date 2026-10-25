@@ -21,3 +21,5 @@ sleepdown_log_*.txt
 *.keystore
 /.sleepdown-secrets/
 /SleepDown-Server/
+# 本地适配器测试包，仅用于 -Psleepdown.eduAdapterTestAssets 设备测试，不进仓库
+/app/src/main/assets/edu_adapter_test/
