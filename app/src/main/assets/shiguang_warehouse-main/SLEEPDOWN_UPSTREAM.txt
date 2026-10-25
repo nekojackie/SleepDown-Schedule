@@ -5,3 +5,7 @@ Index protocol: v2
 Synced: 2026-08-25
 
 SleepDown reads school_index.pb first and keeps the bundled YAML files as a compatibility fallback.
+
+Local additions（不属于上游，同步上游时需要保留）:
+- resources/SMU/ : 南方医科大学（广州乘方科技智慧教务）适配器，上游尚无该校。
+  school_index.pb 已按本目录 YAML 重新编译，协议版本仍为 v2。

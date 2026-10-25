@@ -748,4 +748,8 @@ schools:
     initial: "L"
     resource_folder: "USTL"
 
-  
+  - id: "SMU"
+    name: "南方医科大学"
+    initial: "N"
+    resource_folder: "SMU"
+
